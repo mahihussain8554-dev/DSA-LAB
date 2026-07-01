@@ -8,11 +8,14 @@ The repository includes implementations of:
 
 - Arrays
 - Recursion
+- Stack
+- Queue
 - Other DSA Lab Assignments and Practice Problems
 
 ## 🛠️ Language Used
 
 - C++
+- C
 - Standard Template Library (STL)
 
 ## 📂 Repository Structure
@@ -21,7 +24,9 @@ The repository includes implementations of:
 DSA-LAB/
 │
 ├── Array/
-├── Recursion
+├── Recursion/
+├── Stack/
+├── Queue/
 ```
 
 ## 🎯 Purpose
