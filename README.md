@@ -10,6 +10,7 @@ The repository includes implementations of:
 - Recursion
 - Stack
 - Queue
+- Searching
 - Other DSA Lab Assignments and Practice Problems
 
 ## 🛠️ Language Used
@@ -27,6 +28,7 @@ DSA-LAB/
 ├── Recursion/
 ├── Stack/
 ├── Queue/
+├── Searching/
 ```
 
 ## 🎯 Purpose
