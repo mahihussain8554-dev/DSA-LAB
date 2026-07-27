@@ -11,6 +11,7 @@ The repository includes implementations of:
 - Stack
 - Queue
 - Searching
+- String
 - Other DSA Lab Assignments and Practice Problems
 
 ## 🛠️ Language Used
@@ -29,6 +30,7 @@ DSA-LAB/
 ├── Stack/
 ├── Queue/
 ├── Searching/
+├── String/
 ```
 
 ## 🎯 Purpose
