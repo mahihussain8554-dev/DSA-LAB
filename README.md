@@ -12,6 +12,11 @@ The repository includes implementations of:
 - Queue
 - Searching
 - String
+- Linked List
+- Max Heap
+- Min Heap
+- BST
+- Tree
 - Other DSA Lab Assignments and Practice Problems
 
 ## 🛠️ Language Used
@@ -31,6 +36,11 @@ DSA-LAB/
 ├── Queue/
 ├── Searching/
 ├── String/
+├── Linked List
+├── Max Heap
+├── Min Heap
+├── BST
+├── Tree
 ```
 
 ## 🎯 Purpose
