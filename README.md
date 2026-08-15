@@ -17,6 +17,7 @@ The repository includes implementations of:
 - Min Heap
 - BST
 - Tree
+- Sorting Algorithms
 - Other DSA Lab Assignments and Practice Problems
 
 ## 🛠️ Language Used
@@ -41,6 +42,7 @@ DSA-LAB/
 ├── Min Heap
 ├── BST
 ├── Tree
+├── Sorting Algorithms
 ```
 
 ## 🎯 Purpose
